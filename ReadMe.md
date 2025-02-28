@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Luks51&color=blue)
 
 # 💫 About Me
-💻 Full-Stack Developer | Passionate about web & mobile development<br>🚀 Experienced in Angular, NestJS, React, React Native and much more<br>🌐 Building top-tier, scalable, and responsive web applications<br>🛠️ Loves clean code, best practices, and efficient architecture<br>🎯 Always learning & exploring new technologies<br>💬 Let's connect and build something awesome together!
+💻 Full-Stack Developer | Passionate about web & mobile development<br>🚀 Experienced in Angular, NestJS, React, React Native, and more<br>🌐 Building top-tier, scalable, and responsive web applications<br>🛠️ Loves clean code, best practices, and efficient architecture<br>🎯 Always learning & exploring new technologies<br>💬 Let's connect and build something awesome together!
 
 
 ## 🌐 Socials
