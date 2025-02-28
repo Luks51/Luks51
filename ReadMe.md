@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Luka Vuković!
 
----
 ![](https://komarev.com/ghpvc/?username=Luks51&color=blue)
 
 # 💫 About Me
